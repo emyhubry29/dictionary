@@ -17,6 +17,7 @@ public class Invoice {
 
     private double amount;
 
+// toto
     private boolean paid = true;
 
     public Invoice(String reference, LocalDate date, double amount) {
